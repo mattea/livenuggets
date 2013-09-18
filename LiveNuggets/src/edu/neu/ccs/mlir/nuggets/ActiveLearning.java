@@ -21,7 +21,7 @@ public class ActiveLearning {
 	}
 
 	/**
-	 * @param args
+	 * @param args Requires a queryid, querytext (quoted) and query class
 	 */
 	public static void main(String[] args) {
 		String queryid = args[0];
